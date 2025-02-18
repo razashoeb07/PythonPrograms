@@ -7,3 +7,5 @@ for i in range(n):
             aList[j], aList[j + 1] = aList[j + 1], aList[j]
 print("List After Sorting : ", aList)
 
+# Time Complexity -> O(n^2)
+# Space Complexity > 0(1) Inplace Changing
